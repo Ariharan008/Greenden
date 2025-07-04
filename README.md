@@ -16,3 +16,10 @@ Newsletter subscription form
 About Us and 24/7 support highlights
 
 This project is ideal for beginners learning web development and Tailwind CSS.
+__________________________________________________________________________________________________________________________
+📁 Tech Stack
+HTML5
+
+Tailwind CSS 2.2
+
+Feel free to fork or contribute!
