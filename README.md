@@ -1,5 +1,6 @@
-💻 GitHub Repository Description
+
 Greenden 🌱 | Plant Store Website
+_______________________________________________________________________________________________________________________
 Greenden is a simple, responsive plant e-commerce website built using HTML and Tailwind CSS. The website showcases a variety of indoor plants, both artificial and natural, with key features like:
 
 Clean, modern UI design with Tailwind CSS
